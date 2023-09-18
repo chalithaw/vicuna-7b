@@ -1,0 +1,10 @@
+{
+    "inputs": [
+        {
+            "name": "prompt",
+            "description": "Hello, who are you?",
+            "type": "string",
+            "required": true
+        }
+    ]
+}
